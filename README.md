@@ -1,2 +1,2 @@
 # yeahlink-tg40
-a quick and dirty script to update the user settings on a group a Yealink phones
+A quick and dirty script to update the sip settings on a collection of Yealink phones
